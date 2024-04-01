@@ -288,7 +288,7 @@ conversation "hr: meet alondo"
 	label news
 	`	"I'm sure you've heard the news circulating around humanity," Alondo responds.`
 	label task
-	`	"I'm here on request of the Republic to act as an envoy between the Free Worlds and the Hai government. Although now that I say that out loud, I'm starting to realize just how absurd of a situation this is. I certainly didn't have 'Become engaged in an alien civil crisis' on my bingo card for this year. Although I also didn't have 'Fight off an alien invasion' on my bingo card for the war, so maybe I should just start expecting the unexpected from now on.`
+	`	"I'm here on request of the Republic to act as an envoy between the Free Worlds and the Hai government. Although now that I say that out loud, I'm starting to realize just how absurd of a situation this is. I certainly didn't have 'Become engaged in an alien civil crisis' on my bingo card for this year. Although I also didn't have 'Fight off an alien invasion' on my bingo card for the war, so maybe I should just start expecting the unexpected from now on."`
 	
 	branch settled2
 		has "event: hr: friend settled in"
